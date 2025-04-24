@@ -1,0 +1,15 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-Iinclude/",
+      "-o",
+      "tetris.app",
+      "src/main.cpp"
+    ],
+    "directory": "/home/pablo/tetris",
+    "file": "/home/pablo/tetris/src/main.cpp",
+    "output": "/home/pablo/tetris/tetris.app"
+  }
+]
